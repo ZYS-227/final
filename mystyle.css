@@ -1,0 +1,87 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@200;300;400;500;600;700;900&display=swap');
+
+body{
+	font-family: 'Noto Serif TC', serif;
+	
+}
+.word1 {
+	font-size: 54px;
+	width: 300px;
+	margin-top: -89px;
+	margin-left: -4px;
+	padding-top: 71px;
+}
+.word2 {
+	font-size: 24px;
+	width: 300px;
+	padding-bottom: 3px;
+	margin-top: -10px;
+}
+.word3 {
+	font-size: 14px;
+	width: 300px;
+	padding-bottom: 8px;
+}
+.word4 {
+	font-size: 20px;
+	width: 241%;
+	margin-top: 12px;
+}
+.buttom {
+	height: 108px;
+	margin-left: 41px;
+	background-position: center center;
+	background-size: cover;
+	margin-top: 8px;
+}
+.music {
+	padding-top: 7px;
+}
+.container-fluid {
+	background-color: #E9ECEF;
+	margin-right: auto;
+	margin-left: auto;
+}
+.採訪1QA {
+	width: 50%;
+	font-size: 24px;
+	margin-left: 407px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	text-align: justify;
+}
+.container-fluid2 {
+	margin-top: 30px;
+	background-color: #E9ECEF;
+	margin-right: auto;
+	margin-left: auto;
+}
+.文字1 {
+	width: 50%;
+	margin-left: 407px;
+	font-size: 24px;
+}
+.container-fluid3 {
+	background-color: #FFFFFF;
+	margin-right: auto;
+	margin-left: auto;
+}
+.文字2 {
+	font-size: 24px;
+	width: 50%;
+	margin-left: 408px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.jumbotron {
+	color: #3C3C3C;
+	font-size: 48px;
+}
+.row.no-gutters.align-items-center.介紹1 #a04 {
+	min-width: 20px;
+
+
+}
